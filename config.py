@@ -1,2 +1,2 @@
-BOT_TOKEN = "5299709528:AAGwIwCqa48b_Kktkvo73s_IgAQ1pQb23CA"
-APP_URL = "https://coinsinstabot.herokuapp.com/" + BOT_TOKEN
+BOT_TOKEN = "5175090725:AAFNKQ9tRynBaovBgya7XPpbvoHyjNTuiNo"
+APP_URL = "https://insta-uae-bot.herokuapp.com/" + BOT_TOKEN
